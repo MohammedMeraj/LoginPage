@@ -1,1 +1,1 @@
-Download HTML and CSS file in same Folder and click in HTML file run it on browser.
+Download HTML and CSS file in same Folder, click on HTML file to run it on your browser.
